@@ -1,0 +1,144 @@
+[
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "Persian",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 17,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/Persian.jpg",
+     
+      "price": 90.69,
+      "shipping": 31.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Dog",
+      "name": "jarman shepherd",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 12,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/jarman%20shepherd.jpg",
+      
+      "price": 60.55,
+      "shipping": 9.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Dog",
+      "name": "Akita",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 22,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/Akita.jpg",
+      
+      "price": 122.99,
+      "shipping": 23.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Dog",
+      "name": "siberian husky  ",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 8,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/siberian%20husky.jpg",
+      
+      "price": 210.99,
+      "shipping": 32.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "Japanese Bobtail",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock":17,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/Japanese%20Bobtail.jpg",
+     
+      "price": 107.99,
+      "shipping": 13.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "Bengal",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 8,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/bengal.png",
+      
+      "price": 70.99,
+      "shipping": 13.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "British Longhair ",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 3,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/British%20Longhair.jpg",
+      
+      "price": 165.99,
+      "shipping": 8.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "Egyptian Mau ",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 7,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/Egyptian%20Mau.jpg",
+     
+      "price": 150.10,
+      "shipping": 7.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "Cornish Rex ",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "10",
+      "priceFraction": "99",
+      "stock": 17,
+     
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/Cornish%20Rex.jpg",
+     
+      "price": 105.20,
+      "shipping": 3.99
+    },
+  {
+      "key": "B0713WPJKX",
+      "category": "Cat",
+      "name": "Turkish Van ",
+      "seller": "petcare@gmail.com",
+      "wholePrice": "100",
+      "priceFraction": "99",
+      "stock": 7,
+      "img": "https://raw.githubusercontent.com/tawfiqealahi/animal-photo/main/turkish-van-breed-profile.jpg",
+     
+      "price": 100.99,
+      "shipping": 3.99
+    }
+
+  ]
+
+
